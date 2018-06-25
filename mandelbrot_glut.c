@@ -107,6 +107,8 @@ void ratoli(int boto, int estat, int x, int y) {
 }
 
 void teclat(unsigned char tecla, int x, int y) {
+  (void)(x);
+  (void)(y);
   if (tecla == '+') {
     if (iter_ind < 7)
       iter_ind++;
@@ -130,6 +132,8 @@ void teclat(unsigned char tecla, int x, int y) {
 }
 
 void fletxes(int tecla, int x, int y) {
+  (void)(x);
+  (void)(y);
   double tam_re = max_re - min_re;
   double tam_im = max_im - min_im;
   double desp;
