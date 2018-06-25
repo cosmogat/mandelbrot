@@ -9,6 +9,15 @@ and now you can compile it
 ```
 make
 ```
+and execute with
+```
+./mandelbrot
+```
+## Using
+When you execute the last command you obtain a window (don't maximize) and you have the next options:
+* Keyboard
+  * + -> Increase iterations
+
 ## Screenshots
 &nbsp; | &nbsp;
 --- | ---
