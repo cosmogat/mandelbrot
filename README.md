@@ -16,7 +16,12 @@ and execute with
 ## Using
 When you execute the last command you obtain a window (don't maximize) and you have the next options:
 * Keyboard
-  * + -> Increase iterations
+  * "+" -> Increase iterations
+  * "-" -> Decrease iterations
+  * "r" -> Reset the window
+  * "c" -> Toogle color to b/w
+* Mouse
+  * With the mouse you can "drawn a square" in the window, and enlarge the image. For do this you must push the left button of the mouse in the upper left corner and release the button in the lower right corner.
 
 ## Screenshots
 &nbsp; | &nbsp;
