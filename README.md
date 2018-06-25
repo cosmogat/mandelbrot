@@ -21,13 +21,16 @@ When you execute the last command you obtain a window (don't maximize) and you h
   * "r" -> Reset the window
   * "c" -> Toogle color to b/w
 * Mouse
-  * With the mouse you can "drawn a square" in the window, and enlarge the image. For do this you must push the left button of the mouse in the upper left corner and release the button in the lower right corner.
+  * With the mouse you can "drawn a square" in the window, and enlarge the image. For do this you must press the left button of the mouse in the upper left corner and release the button in the lower right corner.
 
 ## Screenshots
 &nbsp; | &nbsp;
 --- | ---
 ![captura1](./img/01.png) | ![captura2](./img/02.png)
 ![captura3](./img/03.png) | ![captura4](./img/04.png)
+## References
+* [FreeGlut](http://freeglut.sourceforge.net/)
+* [Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set)
 ## Autors
 * **Cosmo Cat**  [cosmogat](https://github.com/cosmogat)
 ## License
