@@ -9,7 +9,10 @@ and now you can compile it
 ```
 make
 ```
-
+Screenshots | 
+--- | ---
+![captura1](./img/01.png) | ![captura2](./img/02.png)!
+[captura3](./img/03.png) | ![captura4](./img/04.png)
 ## Autors
 * **Cosmo Cat**  [cosmogat](https://github.com/cosmogat)
 ## License
